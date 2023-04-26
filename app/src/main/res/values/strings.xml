@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Testovoe5</string>
+    <string name="name">NAME</string>
+    <string name="height">HEIGHT</string>
+    <string name="weight">WEIGHT</string>
+    <string name="begin">BEGIN</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="age">AGE</string>
+    <string name="man">MAN</string>
+    <string name="my_diet">MY DIET</string>
+    <string name="most_useful">MOST USEFUL</string>
+    <string name="useful">USEFUL</string>
+    <string name="my_control">MY CONTROL</string>
+    <string name="settings">SETTINGS</string>
+    <string name="goal_for_the_day">GOAL FOR THE DAY:</string>
+    <string name="kcal">KCAL</string>
+    <string name="current">CURRENT:</string>
+    <string name="food">FOOD</string>
+    <string name="add">ADD</string>
+    <string name="history">HISTORY</string>
+    <string name="notifications">NOTIFICATIONS</string>
+    <string name="clear_progress">CLEAR PROGRESS</string>
+</resources>
